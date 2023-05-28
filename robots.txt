@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://windowcow.github.io/sitemap.xml
+Sitemap: https://windowcow.github.ioblank/sitemap.xml
